@@ -1,0 +1,188 @@
+<div align="center">
+
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20Prabhsimran%20Kaur&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product-minded%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Turning+coffee+into+clean+code+%E2%98%95;Apple+Swift+Student+Challenge+2026+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/prabhsimran-kaur-086525325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/PrabhsimranKaur11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/prabhsimran11" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:prabhkaur1902@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+I'm a Computer Science undergrad at **Chitkara University** (CGPA 9.28), focused on building high-performance, product-minded web applications. I like intentional full-stack development — clean RESTful APIs, tuned databases, and frontends that actually feel good to use. Currently deep in Java + DSA practice, and always looking for the next interesting thing to build.
+
+<div align="center">
+<img src="./assets/terminal.svg" width="640" alt="terminal intro"/>
+</div>
+
+<br/>
+
+## 🏆 Featured Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h4>🍎 Apple Swift Student Challenge 2026</h4>
+<p><b>Winner</b> — recognized for excellence in application development and creative problem-solving.</p>
+<sub>🎧 Prize: AirPods Max</sub>
+<!-- If you want your prize photo here, upload it into an /assets folder in this repo
+     and reference it like: <img src="./assets/airpods-max-prize.png" width="220px"/>
+     Relative paths only work once the file actually lives in this repo. -->
+</td>
+<td align="center" width="50%">
+<h4>🚀 Google Big Code Hackathon 2025</h4>
+<p>Qualified for <b>Round 2</b> — strong competitive programming & algorithmic problem-solving.</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h4>🧠 100+ DSA Problems Solved</h4>
+<p>Across LeetCode & GeeksforGeeks.</p>
+</td>
+<td align="center">
+<h4>🎓 9.28 CGPA</h4>
+<p>B.E. Computer Science, Chitkara University — consistently 90%+ in foundational academics.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,bash" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+
+**Databases & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux" />
+
+</div>
+
+<br/>
+
+## 🚀 Highlighted Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Online Quiz System
+Full-stack interactive quiz platform with a dynamic React frontend and Node.js backend.
+- Architected a **GraphQL** server to optimize client-database data fetching, reducing load time
+- Integrated an **AI-driven chat component** for real-time in-quiz assistance
+- Built **3D animations in Blender** to boost engagement
+
+`React` `Node.js` `GraphQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 SyncUp — Team Collaboration Platform
+Real-time communication platform with dedicated workspaces and direct messaging.
+- Scalable Node.js backend handling secure auth across **concurrent multi-workspace sessions**, zero downtime
+- Efficient state management for seamless channel/chat navigation
+
+`React` `Vite` `Node.js`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>➕ More projects (click to expand)</summary>
+<br/>
+
+- **Hand-Tracking AR Particle Overlay** — Browser-based AR experience using `Human.js` and canvas, with two-hand landmark tracking, pinch gestures, and real-time particle effects.
+- **3D Orbiting Photo Gallery** — Interactive gallery built with `React`, `Three.js`, `@react-three/fiber`, and `@react-three/drei`.
+- **Vaani Bot** — Hindi/Telugu interactive voice assistant built for Sankar Group using the Web Speech API, Claude API, and browser speech synthesis, with multi-turn memory.
+
+</details>
+
+<br/>
+
+## 📊 GitHub Stats
+
+> These cards are generated by GitHub Actions running inside this repo (see `.github/workflows/profile-cards.yml`) — not fetched from a public third-party server, so they don't randomly go down like the generic ones do.
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/streak.svg" width="48%" />
+
+<br/>
+
+<img src="./profile/top-langs.svg" width="48%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+> A snake that eats its way through my real contribution graph, regenerated every 6 hours by `.github/workflows/snake.yml`. Most profiles don't bother wiring this up — it's a nice one to have.
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrabhsimranKaur11/PrabhsimranKaur11/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrabhsimranKaur11/PrabhsimranKaur11/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/PrabhsimranKaur11/PrabhsimranKaur11/output/snake-dark.svg" width="98%"/>
+</picture>
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+<details>
+<summary><b>Click to expand — 20+ certifications</b></summary>
+<br/>
+
+- **Red Hat** — System Administration I (RH124)
+- **Coursera** — Cybersecurity & IT Networking Foundations
+- **Coursera** — Python Data Analytics
+- **Coursera** — SQL Certifications
+- Plus 15+ additional certifications across cloud, software development, and emerging technologies
+
+</details>
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's Connect
+
+If you're working on something interesting in full-stack dev, AI-integrated apps, or competitive programming — I'd love to talk.
+
+📧 **prabhkaur1902@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%"/>
+
+</div>
