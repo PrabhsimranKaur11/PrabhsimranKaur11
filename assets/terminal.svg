@@ -1,0 +1,80 @@
+<svg width="800" height="440" viewBox="0 0 800 440" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Cascadia Code', Consolas, monospace">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#0d1420"/>
+    </linearGradient>
+  </defs>
+
+  <!-- outer gradient border -->
+  <rect x="1" y="1" width="798" height="438" rx="16" fill="url(#borderGrad)"/>
+  <!-- inner window -->
+  <rect x="4" y="4" width="792" height="432" rx="13" fill="url(#bgGrad)"/>
+
+  <!-- title bar -->
+  <rect x="4" y="4" width="792" height="38" rx="13" fill="#11182b"/>
+  <rect x="4" y="24" width="792" height="18" fill="#11182b"/>
+  <circle cx="30" cy="23" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="23" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="23" r="6" fill="#27c93f"/>
+  <text x="400" y="28" fill="#8b95ab" font-size="13" text-anchor="middle">guest@prabhsimran: ~</text>
+
+  <!-- terminal lines, staggered reveal -->
+  <g font-size="17">
+
+    <text x="28" y="85" opacity="0">
+      <tspan fill="#22d3ee">guest@prabhsimran</tspan><tspan fill="#8b95ab">:~$ </tspan><tspan fill="#e5e7eb">whoami</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="120" fill="#c4b5fd" opacity="0">
+      &gt; Prabhsimran Kaur — B.E. CSE, Chitkara University (CGPA 9.28)
+      <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="165" opacity="0">
+      <tspan fill="#22d3ee">guest@prabhsimran</tspan><tspan fill="#8b95ab">:~$ </tspan><tspan fill="#e5e7eb">cat currently_building.txt</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="200" fill="#c4b5fd" opacity="0">
+      &gt; AR particle overlays · 3D orbiting galleries · voice bots
+      <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="245" opacity="0">
+      <tspan fill="#22d3ee">guest@prabhsimran</tspan><tspan fill="#8b95ab">:~$ </tspan><tspan fill="#e5e7eb">./achievements.sh --run</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="280" fill="#4ade80" opacity="0">
+      🏆 Apple Swift Student Challenge 2026 — Winner
+      <animate attributeName="opacity" from="0" to="1" begin="3.7s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="310" fill="#4ade80" opacity="0">
+      🚀 Google Big Code Hackathon 2025 — Round 2 qualifier
+      <animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="355" opacity="0">
+      <tspan fill="#22d3ee">guest@prabhsimran</tspan><tspan fill="#8b95ab">:~$ </tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="4.9s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <!-- blinking cursor -->
+    <rect x="182" y="341" width="11" height="20" fill="#06B6D4" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="4.9s" dur="0.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" begin="5.2s" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- footer hint -->
+  <text x="28" y="410" fill="#4b5568" font-size="12">
+    tip: this whole card is a self-hosted SVG — no third-party API, so it never breaks.
+  </text>
+</svg>
